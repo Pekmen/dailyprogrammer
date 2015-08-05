@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def eucl_alg(a,b):
 	rem = a % b
 	if rem == 0:

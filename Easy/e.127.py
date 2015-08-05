@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def M(n):
 	if n == 91:
 		print n

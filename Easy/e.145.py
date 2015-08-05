@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 prompt = raw_input().split()
 base = int(prompt[0])
 tsymb, lsymb = prompt[1:]

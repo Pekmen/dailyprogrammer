@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def var_notation():
     running = True
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 text = (raw_input(""))
 
 vowels = ''.join([ch for ch in text if ch in 'aeiou'])

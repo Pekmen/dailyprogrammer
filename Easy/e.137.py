@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def string_trans(txt):
      with open(txt, 'r') as f:
         lines = map(str.strip, f.readlines()[1:])

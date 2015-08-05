@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def merge_sort(a,b):
 	for num in a:
 		if num not in b:

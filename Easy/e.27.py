@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 def is_leap_year(year):
     if year % 4 != 0:

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 mystring = "hannah"
 
 def is_palindrome(s):

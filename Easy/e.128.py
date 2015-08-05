@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def digits_sum(s):
 	curstr = 0
 	result = s

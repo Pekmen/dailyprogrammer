@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # fast as hell
 
 from random import randint

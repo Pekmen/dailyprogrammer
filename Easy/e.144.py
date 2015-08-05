@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 with open('file.txt') as f:
     n = int(f.readline())
     data = [line.strip('\n').split() for line in f.readlines()]

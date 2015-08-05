@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+	
 def dig_root (n):
 	if n < 10:
 		return n

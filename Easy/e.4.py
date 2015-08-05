@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import random
 
 pass_amount = int(input("How many passwords do you want?\n"))

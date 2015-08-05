@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 name = input("Your name?\n")
 age = input("Your age?\n")
 username = input("Your reddit username?\n")

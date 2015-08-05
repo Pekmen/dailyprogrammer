@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def str_manip (case, str1):
     if case == 0:
         return reversed(str1)

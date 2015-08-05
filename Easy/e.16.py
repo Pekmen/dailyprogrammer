@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 str1 = "Daily Programmer"
 str2 = "aeiou "
 

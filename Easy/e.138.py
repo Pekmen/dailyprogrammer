@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 
 m1, x1, y1 = map(float, raw_input('>').split(' '))
 m2, x2, y2 = map(float, raw_input('>').split(' '))

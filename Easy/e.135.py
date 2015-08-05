@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 
 import random
 from sys import argv

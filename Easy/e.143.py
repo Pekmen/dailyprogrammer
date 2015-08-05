@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 bralpha = ["O.....","O.O...","OO....","OO.O..","O..O..","OOO...","OOOO..",
        "O.OO..",".OO...",".OOO..","O...O.","O.O.O.", "OO..O.","OO.OO.",
        "O..OO.","OOO.O.","OOOOO.", "O.OOO.",".OO.O.",".OOOO.","O...OO",
