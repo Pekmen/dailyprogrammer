@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 vertices, en_pairs = map(int, raw_input().split())
 matrix = [vertices * [0] for i in range(vertices)]
 

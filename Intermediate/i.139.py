@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import zipfile
 
 chars = ('abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz')
