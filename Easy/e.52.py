@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 def get_alpha_value(word):
     return(sum([ord(ch) - ord('a') + 1 for ch in word.lower()]))
